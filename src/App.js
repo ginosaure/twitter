@@ -17,6 +17,11 @@ const tweets = [
     author: "@Alex",
     content: "NTM LEXTREME DROITE DE PD RACISTES _!!!"
   },
+  {
+    pseudo: "The Z.",
+    author: "@ZemmourOfficial",
+    content: "J'suis pas PD"
+  },
 ]
 
 function App() {
